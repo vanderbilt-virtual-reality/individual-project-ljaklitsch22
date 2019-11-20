@@ -100,8 +100,14 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProGrids">
+      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProGrids.Editor">
+      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -115,23 +121,11 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProGrids">
-      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
@@ -141,6 +135,12 @@
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>/Users/lukas/Desktop/VR_CLASS/Anger/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.0f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
